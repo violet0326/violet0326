@@ -1,4 +1,6 @@
-# Hi，I'm Junjie Zhu, a traveler driven by an interest👋
+<p align="center">
+  <img src="banner.png" alt="Junjie Zhu's GitHub Banner" width="100%" />
+</p>
 
 #### Back-end programmer by day ☼ and Open Source Contributor by night ☾
 
