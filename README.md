@@ -1,4 +1,4 @@
-# 嗨，我是 violet0326 ，a traveler driven by an interest👋
+# Hi，I'm Junjie Zhu, a traveler driven by an interest👋
 
 #### Back-end programmer by day ☼ and Open Source Contributor by night ☾
 
@@ -11,12 +11,12 @@ Based in China;<br>
 
 ---
 
-### 💫 关于我
-- 🌱 我正在学习ai agent相关知识
+### 💫 About Me
+- 🌱 I am currently studying the knowledge related to AI agent.
 
-### 🛠 技术栈
+### 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,docker,js,bash,sqlite)](https://skillicons.dev)
 
-### 📊 GitHub 统计
+### 📊 GitHub Statistics
 ![violet0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=violet0326&show_icons=true&theme=radical)
 
