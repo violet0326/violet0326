@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Junjie Zhu's GitHub Banner" width="100%" />
+  <img src="github-header-banner.png" alt="Junjie Zhu's GitHub Banner" width="100%" />
 </p>
 
 #### Back-end programmer by day ☼ and Open Source Contributor by night ☾
