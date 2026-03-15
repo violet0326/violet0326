@@ -1,5 +1,4 @@
-# 嗨，我是 violet0326 👋
-### Hello there 👋
+# 嗨，我是 violet0326 ，a traveler driven by an interest👋
 
 #### Back-end programmer by day ☼ and Open Source Contributor by night ☾
 
